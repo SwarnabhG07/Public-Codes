@@ -14,6 +14,9 @@ while (v<3):
     print ()
     if (a==0):
         print ('invalid , a cannot be zero')
+    else:
+        print ('Your Equation => ' ,a,'x^2 + ' ,b,'x + ', c, ' = 0')
+    print ()
 
     D = b**2 - (4*a*c)
     if (D<0) :
@@ -51,6 +54,8 @@ print ('Follow My Insta Account => ',end ='')
 print (url)
 print ('__________________________________________________________________________')
 # credits - @SwarnabhG07 (instagram)
+
+
 
 
 
